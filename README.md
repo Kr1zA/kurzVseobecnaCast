@@ -35,6 +35,6 @@
 * Hlavnou ulohou cervenych kviniej je prenos kyslika.
 * Zakladom svaloveho vlakna su bielkoviny aktin a myozin.
 * Riadenie pohybu CNS:
-** miecha - najnizsie reflexne centrum pohybu
-** mozgova kora - riadi vedome, volou ovladane pohyby
-** mozocek - udrziavanie vzpriamanej polohy a rovnovahy
+  * miecha - najnizsie reflexne centrum pohybu
+  * mozgova kora - riadi vedome, volou ovladane pohyby
+  * mozocek - udrziavanie vzpriamanej polohy a rovnovahy
