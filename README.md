@@ -28,3 +28,9 @@
 * ranne cvicenie... nasrac
 
 ### Cvicebna jednotka
+* blbosti
+
+## Lekarina:
+
+Hlavnou ulohou cervenych kviniej je prenos kyslika.
+Zakladom svaloveho vlakna su bielkoviny aktin a myozin.
