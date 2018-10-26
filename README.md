@@ -44,3 +44,4 @@
   * zvlhcovanie vzduchu
   * ocistovanie vzduchu od skodlivin
   * ohrievanie vzduchu
+* Pocast telesneho zatazenia ma sprtovec dychat prehlbene a s co najnizsou dychovou frekvenciou
