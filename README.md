@@ -41,6 +41,6 @@
 
 * Kyselina mliecna vznika stiepenim glukozy bez pristupu kyslika.
 * Dychanie nosom:
- * zvlhcovanie vzduchu
- * ocistovanie vzduchu od skodlivin
- * ohrievanie vzduchu
+  * zvlhcovanie vzduchu
+  * ocistovanie vzduchu od skodlivin
+  * ohrievanie vzduchu
