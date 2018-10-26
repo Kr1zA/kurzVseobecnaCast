@@ -9,3 +9,22 @@
 * regeneracia, odpocinok
 * zdatnost, odolnost
 * sucast sposobu zivota
+
+### Rekreacia:
+* pasivna
+* aktivna
+
+### Telovychovny proces
+#### Druhy:
+* zakladny
+* zdravotny
+* rekreacny
+* sportove pripravy a sportovy trening
+
+#### Organizacne formy:
+* cvicebna jednotka
+* formy cvicenia na pracovisku 
+* sutaze
+* ranne cvicenie... nasrac
+
+### Cvicebna jednotka
