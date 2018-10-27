@@ -49,6 +49,8 @@
 
 * Podvrtnutie - zdvyham koncatinu
 * Ozivovanie u dospeleho cloveka - najprv masaz - 30:2
+* Medzi ucinky masaze patri zmena svaloveho napatia
+
 
 ## Motivacia
 * tvorena zhlukmi motivov - explicitna a implicitna motivacia - vonkajsia a vnutorna... nasrac
@@ -66,3 +68,6 @@ Preco sportovec sportuje v jednotlivych fazach:
 * diferenciacia - lebo je/chce byt najlepsie
 * stabilizacia - chce vytazit
 * involucia - lebo ho to bavi
+
+
+* Zdravie je relativne optimalny stav dusevnej telesnej pohody, mentalnej aj spolocenskej pohody
