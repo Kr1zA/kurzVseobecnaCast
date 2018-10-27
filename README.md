@@ -46,3 +46,20 @@
   * ohrievanie vzduchu
 * Pocast telesneho zatazenia ma sprtovec dychat prehlbene a s co najnizsou dychovou frekvenciou
 * Stabilizovana poloha so zaklonom hlavy
+
+## Motivacia
+* tvorena zhlukmi motivov - explicitna a implicitna motivacia - vonkajsia a vnutorna... nasrac
+* implicitna motivacia:
+  * motiv mocii
+  * motiv vykonu
+  * motiv afiliacie - afiliacia - chce byt s kazdym kamarat chce aby ho kazdy mal rad
+
+Vznika z motivacnych zoskupeni, (hlavne, vedlajsie navzajom sa prekryvauce niekedy protichodne) ktore sportovca ovplyvnuju.
+
+Motivacia sportovca zavysi na veku, osobnosti sportovca a vykonnosti.
+
+Preco sportovec sportuje v jednotlivych fazach:
+* generalizacia - lebo ho to bavi robi mu to radost
+* diferenciacia - lebo je/chce byt najlepsie
+* stabilizacia - chce vytazit
+* involucia - lebo ho to bavi
