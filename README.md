@@ -47,6 +47,9 @@
 * Pocast telesneho zatazenia ma sprtovec dychat prehlbene a s co najnizsou dychovou frekvenciou
 * Stabilizovana poloha so zaklonom hlavy
 
+* Podvrtnutie - zdvyham koncatinu
+* Ozivovanie u dospeleho cloveka - najprv masaz - 30:2
+
 ## Motivacia
 * tvorena zhlukmi motivov - explicitna a implicitna motivacia - vonkajsia a vnutorna... nasrac
 * implicitna motivacia:
