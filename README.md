@@ -84,3 +84,8 @@ Potravinova piramida:
 * vrchol - 
 
 Piramida odporucanej pohybovej aktivity
+
+Tvorba pohyboveho programu:
+https://cs.wikipedia.org/wiki/Pom%C4%9Br_obvodu_pasu_a_bok%C5%AF
+
+* FITT - frequency, intensity, time, type
