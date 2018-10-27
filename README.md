@@ -71,3 +71,16 @@ Preco sportovec sportuje v jednotlivych fazach:
 
 
 * Zdravie je relativne optimalny stav dusevnej telesnej pohody, mentalnej aj spolocenskej pohody
+
+Odporucany podiel zivin v potrave:
+* sacharidy 55%-60%
+* tuky 25%-30%
+* bielkoviny 10%-15%
+
+Potravinova piramida:
+* zakladna - 
+* prve poschodie -
+* druhe poschodie - 
+* vrchol - 
+
+Piramida odporucanej pohybovej aktivity
