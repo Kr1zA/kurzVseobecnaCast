@@ -90,6 +90,8 @@ https://cs.wikipedia.org/wiki/Pom%C4%9Br_obvodu_pasu_a_bok%C5%AF
 
 * FITT - frequency, intensity, time, type
 
+### Dalsie otazky
+
 * treba si pozriet tie potravinovu a pohybovu pyramidu
 * krivku motivacie - v jednej prednaske na slide s nazvom Psychologická príprava
 * kto sa povazuje za zajladatela nepamatam coho a preco? - ani meno nepamatam ale, lebo ako prvy pouzil matematiku a fyziku pri vyskume
